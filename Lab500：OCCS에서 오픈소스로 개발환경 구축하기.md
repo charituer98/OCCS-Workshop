@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-[./media/image1.png](./media/image1.png)
-========================================
-
 Lab 500
-
-Oracle Public Cloud Workshop
 ============================
 
 Container Cloud Service Hands-on Guide
@@ -13,9 +7,7 @@ Container Cloud Service Hands-on Guide
 *OCCS상의 오픈소스 개발 환경 구축*
 ==================================
 
--   Zhu Dong (<dong.zhu@oracle.com>), Ke Wang (<ke.w.wang@oracle.com>)
 
-May 17, 2017
 
 Introduction 
 -------------
