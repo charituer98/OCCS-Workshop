@@ -1,6 +1,4 @@
-Lab 100
-
-Oracle Public Cloud Workshop
+LAB 100
 ============================
 
 Container Cloud Service Hands-on Guide
@@ -8,10 +6,6 @@ Container Cloud Service Hands-on Guide
 
 *OCCS 프로비저닝*
 =================
-
--   Zhu Dong (<dong.zhu@oracle.com>), Ke Wang (<ke.w.wang@oracle.com>)
-
-May 16, 2017
 
 Introduction 
 -------------
