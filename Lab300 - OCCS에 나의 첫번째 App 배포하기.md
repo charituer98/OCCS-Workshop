@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-[./media/image1.png](./media/image1.png)
-========================================
-
 Lab 300
-
-Oracle Public Cloud Workshop
 ============================
 
 Container Cloud Service Hands-on Guide
@@ -13,9 +7,6 @@ Container Cloud Service Hands-on Guide
 *OCCS에 나의 첫번째 App 배포하기*
 =================================
 
--   Dong Zhu (<dong.zhu@oracle.com>), Ke Wang (<ke.w.wang@oracle.com>)
-
-May 17, 2017
 
 Introduction 
 -------------
@@ -84,64 +75,6 @@ GitHub 계정: 아직 계정이 없다면, go to <https://github.com/> 으로 �
 Docker Hub 계정: Docker Hub 계정이 없다면, go to
 [https://hub.docker.com/](https://hub.docker.com/login) 을 방문하여
 가입하십시오.
-
-### Outline
-
->   [Introduction 2](#introduction)
-
->   [Objectives 2](#objectives)
-
->   [Required Artifacts 3](#required-artifacts)
-
->   [Outline 3](#outline)
-
->   [Scenario 1 - Fork application in GitHub
->   5](#scenario-1---fork-application-in-github)
-
->   [Scenario 1 - Create a Docker Hub Automated Build
->   6](#scenario-1---create-a-docker-hub-automated-build)
-
->   [Scenario 1 - Trigger the Build Manually
->   12](#scenario-1---trigger-the-build-manually)
-
->   [Scenario 1 - Create a New Service with Oracle Container Cloud Service
->   15](#scenario-1---create-a-new-service-with-oracle-container-cloud-service)
-
->   [Scenario 1 - Deploy the New Service with Oracle Container Cloud Service
->   19](#scenario-1---deploy-the-new-service-with-oracle-container-cloud-service)
-
->   [Scenario 1 - Verify the first Deployment
->   22](#scenario-1---verify-the-first-deployment)
-
->   [Scenario 1 - Modify the Application in GitHub
->   23](#scenario-1---modify-the-application-in-github)
-
->   [Scenario 1 - Verify the second Deployment
->   25](#scenario-1---verify-the-second-deployment)
-
->   [Scenario 2 - Fork application in GitHub
->   28](#scenario-2---fork-application-in-github)
-
->   [Scenario 2 - Create a Docker Hub Automated Build
->   29](#scenario-2---create-a-docker-hub-automated-build)
-
->   [Scenario 2 - Trigger the Build Manually
->   32](#scenario-2---trigger-the-build-manually)
-
->   [Scenario 2 - Create a New Service with Oracle Container Cloud Service
->   34](#scenario-2---create-a-new-service-with-oracle-container-cloud-service)
-
->   [Scenario 2 - Deploy the New Service with Oracle Container Cloud Service
->   37](#scenario-2---deploy-the-new-service-with-oracle-container-cloud-service)
-
->   [Scenario 2 - Verify the first Deployment
->   40](#scenario-2---verify-the-first-deployment)
-
->   [Scenario 2 - Modify the Application in GitHub
->   41](#scenario-2---modify-the-application-in-github)
-
->   [Scenario 2 - Verify the second Deployment
->   44](#scenario-2---verify-the-second-deployment)
 
 Scenario 1 - Fork application in GitHub
 ---------------------------------------
