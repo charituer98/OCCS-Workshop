@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-[./media/image1.png](./media/image1.png)
-========================================
-
 Lab 400
-
-Oracle Public Cloud Workshop
 ============================
 
 Container Cloud Service Hands-on Guide
@@ -12,10 +6,6 @@ Container Cloud Service Hands-on Guide
 
 *Stack을 사용한 WebLogic Cluster 배포*
 ======================================
-
--   Zhu Dong (<dong.zhu@oracle.com>), Ke Wang (<ke.w.wang@oracle.com>)
-
-May 19, 2017
 
 Introduction 
 -------------
