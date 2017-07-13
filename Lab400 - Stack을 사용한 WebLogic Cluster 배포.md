@@ -460,12 +460,10 @@ Scale out the Weblogic cluster instance and test load balance
 
 ![](media/500d373c6d23eed2f7c766555c54fc77.png)
 =======
-[./media/image1.png](./media/image1.png)
-========================================
+
+
 
 Lab 400
-
-Oracle Public Cloud Workshop
 ============================
 
 Container Cloud Service Hands-on Guide
