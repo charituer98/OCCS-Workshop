@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-[./media/image1.png](./media/image1.png)
-========================================
-
 Lab 100
 
 Oracle Public Cloud Workshop
