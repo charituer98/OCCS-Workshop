@@ -88,7 +88,7 @@ Scenario 1 - Fork application in GitHub
 
 3.  저장소 페이지의 상단에 있는 메뉴에서 Fork 버튼을 클릭하십시오.
 
->   [./media/image2.jpeg](./media/image2.jpeg)
+    ![](/media/image2.jpeg)
 
 >   이제 docker-images 저장소의 복사본을 만들었습니다.
 
