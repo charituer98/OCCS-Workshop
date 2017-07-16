@@ -146,19 +146,19 @@ Scenario 1 - Create a Docker Hub Automated Build
 
     b.  **Create** 클릭
 
-        ![](media/c488cb7d09955ce230f2cb272c7d5f9f.jpg)
+    ![](media/c488cb7d09955ce230f2cb272c7d5f9f.jpg)
 
         Automated build 생성되면, Automated Build 화면의 **Repo Info**
         탭이표시됩니다. 
 
-        ![](media/3934766e3dd81e9ed78cace183b6742f.jpg)
+    ![](media/3934766e3dd81e9ed78cace183b6742f.jpg)
 
 12.  **Build Settings** 탭으로 이동하십시오.
 
 >   **Dockerfile Location** 필드의 값을
 >   */ContainerCloud/images/docker-hello-world/* 로 변경 하십시오
 
-    ![](/media/image14.jpeg)
+    ![](/media/image14.jpeg)
 
 >   **Build Settings** 탭에서 정의한 빌드 규칙은 이미지 작성 방법 및 시기를
 >   지정합니다. 디폴트로 이미지들은 다음과 같습니다.
