@@ -100,7 +100,7 @@ Scenario 1 - Create a Docker Hub Automated Build
 2.  Docker Hub **Create** 메뉴에서 “**Create Automated Build”** 를 선택
     하십시오.
 
->   [./media/image3.jpeg](./media/image3.jpeg)
+    ![](/media/image3.jpeg)
 
 1.  **Link Accounts** 를 클릭 하십시오
 
