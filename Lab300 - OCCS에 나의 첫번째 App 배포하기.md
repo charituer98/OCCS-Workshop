@@ -116,25 +116,25 @@ Scenario 1 - Create a Docker Hub Automated Build
 
 6.  **Authorize application** 클릭하십시오
 
-        ![](media/fcec19022d8fe138d1e51640ca9036cc.jpg)
+    ![](/media/fcec19022d8fe138d1e51640ca9036cc.jpg)
 
 7.  confirm password를 입력 하십시오.
 
-        ![](media/77fb92a5bce13644184e13056f8f035b.jpg)
+    ![](/media/77fb92a5bce13644184e13056f8f035b.jpg)
 
 8.  Docker Hub **Create** 메뉴에서 **Create Automated Build**를 선택
     하십시오**.**
 
-        ![](media/image9.jpeg)
+    ![](/media/image9.jpeg)
 
 9.  당신의GitHub 계정에 명시된 **Create Auto-build GitHub**을 클릭하면 automated
     build를 생성할 저장소가 포함되게 됩니다.
 
-        ![](/media/image10.jpeg)
+    ![](/media/image10.jpeg)
 
 10.  자신의GitHub 계정으로 fork된 docker-images 저장소를 선택합니다.
 
-        ![](/media/image11.jpeg)
+    ![](/media/image11.jpeg)
 
 11.  Automated build 생성 페이지에서 다음을 수행하십시오.
 
