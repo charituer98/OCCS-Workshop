@@ -96,29 +96,29 @@ Create a New OCCS Service Instance
 
 ![Service Details page](media/aa562bf96ffab774676bcdb109609a02.png)
 
-1.  **SSH Public Key** 필드 옆에 **Edit** 버튼을 클릭하십시오.
+2.  **SSH Public Key** 필드 옆에 **Edit** 버튼을 클릭하십시오.
 
 ![Service Details page](media/245ab901e834f51e0c8ba6831785b5ca.png)
 
-1.  VM 공용 키 입력 대화 상자에서 새 키 작성 옵션을 선택하고 Enter를 클릭
+3.  VM 공용 키 입력 대화 상자에서 새 키 작성 옵션을 선택하고 Enter를 클릭
     하십시오
 
 ![Public key input for VM access dialog](media/57ae65a441d2a7a23ee193149819db81.png)
 
-1.  Download Keys 대화 상자에서, Download 를 클릭 하십시오.
+4.  Download Keys 대화 상자에서, Download 를 클릭 하십시오.
 
 ![Download Keys dialog](media/fcaeb24d46bae0558af190a9d257746b.png)
 
-1.  sshkeybundle.zip 파일을 저장할 임시 위치를 지정하십시오.
+5.  sshkeybundle.zip 파일을 저장할 임시 위치를 지정하십시오.
 
 Tip: 이 튜토리얼에서는 sshkeybundle.zip 파일을 사용하지 않을 것이지만, 좋은 임시
 보관을 위해 나중에 삭제할 것이므로, 지정한 임시 위치를 적어 두십시오
 
-1.  Download Keys 대화 상자에서 **Done** 을 클릭하십시오
+6.  Download Keys 대화 상자에서 **Done** 을 클릭하십시오
 
 ![Download Keys dialog](media/d15216f3321efeaab4b4faf37d55e6d1.png)
 
-1.  Service Instance Creation Wizard로 돌아가서, 다음과 같이 인스턴스 관리자
+7.  Service Instance Creation Wizard로 돌아가서, 다음과 같이 인스턴스 관리자
     자격 증명을 입력하십시오 :
 
 **Admin Username**: admin (기본값)
@@ -127,18 +127,18 @@ Tip: 이 튜토리얼에서는 sshkeybundle.zip 파일을 사용하지 않을 �
 
 **Tip**: 필요하다면 패스워드를 적어둔다.
 
-1.  이 튜토리얼의 목적에 따라 Worker 노드 설정의 기본값은 문제가 없으므로
+8.  이 튜토리얼의 목적에 따라 Worker 노드 설정의 기본값은 문제가 없으므로
     변경하지 마십시오.
 
 ![Service Details page](media/7d1d618f9ec6b3f101d48a929115c4fc.png)
 
-1.  **Next** 를 클릭하고 확인 페이지에 입력 한 세부 정보를 확인하십시오.
+9.  **Next** 를 클릭하고 확인 페이지에 입력 한 세부 정보를 확인하십시오.
 
-2.  **Create** 를 클릭하여 Oracle Container Cloud Service 인스턴스를 만듭니다.
+10.  **Create** 를 클릭하여 Oracle Container Cloud Service 인스턴스를 만듭니다.
 
 ![Confirmation page](media/d3bff2722c435790efb65c5325292568.png)
 
-1.  Oracle Container Cloud Service 콘솔의 의 서비스 탭이 표시되고, 상태 필드에
+11.  Oracle Container Cloud Service 콘솔의 의 서비스 탭이 표시되고, 상태 필드에
     새로운 tutorial-instance 인스턴스와 “Creating service ...” 메시지가
     표시됩니다.
 
@@ -148,10 +148,10 @@ Tip: 이 튜토리얼에서는 sshkeybundle.zip 파일을 사용하지 않을 �
 상태와 메시지를 볼 수 있다 . 때때로, 버튼 옆에 Refresh 아이콘을 클릭하여
 인스턴스가 제대로 생성되는지를 체크 할 수 있습니다.
 
-1.  몇 분후에, 새 tutorial-instance 인스턴스가 지정한 세부 정보로 작성되고 상태
+12.  몇 분후에, 새 tutorial-instance 인스턴스가 지정한 세부 정보로 작성되고 상태
     필드에 “Creating service ...” 이라는 메시지가 사라집니다.
 
-2.  **tutorial-instance** 를 클릭하면 Service Details 페이지의 인스턴스에 대한
+13.  **tutorial-instance** 를 클릭하면 Service Details 페이지의 인스턴스에 대한
     추가 정보를 볼 수 있습니다.
 
 ![Service Details page](media/06320f71221a9bc67738ebaa7c09eec5.png)
@@ -175,11 +175,11 @@ Display the Container Console to Verify the Service Instance is Running
 
 ![Instance Overview page](media/8252513429004613da8d0eadac9f8806.png)
 
-1.  컨테이너 콘솔 로그인 창을 표시하려면 **Container Console** 을 선택하십시오
+2.  컨테이너 콘솔 로그인 창을 표시하려면 **Container Console** 을 선택하십시오
 
 ![Container Console login window](media/38cabe5f946b489d96d739a2ede9acc3.png)
 
-1.  다음credentials을 입력하고 Login 클릭:
+3.  다음credentials을 입력하고 Login 클릭:
 
 **Username**: admin
 
