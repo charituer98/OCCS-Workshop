@@ -88,7 +88,7 @@ Scenario 1 - Fork application in GitHub
 
 3.  저장소 페이지의 상단에 있는 메뉴에서 Fork 버튼을 클릭하십시오.
 
->   [./media/image2.jpeg](./media/image2.jpeg)
+        ![](media/image2.jpeg)
 
 >   이제 docker-images 저장소의 복사본을 만들었습니다.
 
@@ -100,41 +100,40 @@ Scenario 1 - Create a Docker Hub Automated Build
 2.  Docker Hub **Create** 메뉴에서 “**Create Automated Build”** 를 선택
     하십시오.
 
->   [./media/image3.jpeg](./media/image3.jpeg)
+        ![](media/image3.jpeg)
 
 1.  **Link Accounts** 를 클릭 하십시오
 
->   [./media/image4.jpeg](./media/image4.jpeg)
 
 1.  **Link GitHub**를 클릭 하십시오.
 
->   [./media/image5.jpeg](./media/image5.jpeg)
+        ![](media/image5.jpeg)
 
 1.  Public and Private 을 선택하고**Select**를 클릭 하십시오.
 
->   [./media/image6.jpeg](./media/image6.jpeg)
+        ![](media/image6.jpeg)
 
 1.  **Authorize application** 클릭하십시오
 
-    ![](media/fcec19022d8fe138d1e51640ca9036cc.jpg)
+        ![](media/fcec19022d8fe138d1e51640ca9036cc.jpg)
 
 2.  confirm password를 입력 하십시오.
 
-    ![](media/77fb92a5bce13644184e13056f8f035b.jpg)
+        ![](media/77fb92a5bce13644184e13056f8f035b.jpg)
 
 3.  Docker Hub **Create** 메뉴에서 **Create Automated Build**를 선택
     하십시오**.**
 
->   [./media/image9.jpeg](./media/image9.jpeg)
+        ![](media/image9.jpeg)
 
 1.  당신의GitHub 계정에 명시된 **Create Auto-build GitHub**을 클릭하면 automated
     build를 생성할 저장소가 포함되게 됩니다.
 
->   [./media/image10.jpeg](./media/image10.jpeg)
+        ![](/media/image10.jpeg)
 
 1.  자신의GitHub 계정으로 fork된 docker-images 저장소를 선택합니다.
 
->   [./media/image11.jpeg](./media/image11.jpeg)
+        ![](/media/image11.jpeg)
 
 1.  Automated build 생성 페이지에서 다음을 수행하십시오.
 
@@ -158,7 +157,7 @@ Scenario 1 - Create a Docker Hub Automated Build
 >   **Dockerfile Location** 필드의 값을
 >   */ContainerCloud/images/docker-hello-world/* 로 변경 하십시오
 
->   [./media/image14.jpeg](./media/image14.jpeg)
+    ![](/media/image14.jpeg)
 
 >   **Build Settings** 탭에서 정의한 빌드 규칙은 이미지 작성 방법 및 시기를
 >   지정합니다. 디폴트로 이미지들은 다음과 같습니다.
@@ -215,17 +214,17 @@ Scenario 1 - Create a New Service with Oracle Container Cloud Service
 1.  Oracle Container Cloud Service를 생성하십시오. (Lab 100을 수행하신 분은 이
     과정 생략)
 
->   [./media/image21.jpeg](./media/image21.jpeg)
+    ![](/media/image21.jpeg)
 
->   [./media/image22.jpeg](./media/image22.jpeg)
+    ![](/media/image22.jpeg)
 
->   [./media/image23.jpeg](./media/image23.jpeg)
+    ![](/media/image23.jpeg)
 
 1.  Oracle Container Cloud Service Container 콘솔에 로그인 하십시오.
 
->   [./media/image24.jpeg](./media/image24.jpeg)
+    ![](/media/image24.jpeg)
 
->   [./media/image25.jpeg](./media/image25.jpeg)
+    ![](/media/image25.jpeg)
 
 1.  Services page에서, **New Service**를 클릭하여 Service Editor를 표시하고
     다음을 수행합니다.
@@ -242,11 +241,11 @@ Scenario 1 - Create a New Service with Oracle Container Cloud Service
 
     2.  **Save**를 클릭하여 새 서비스를 만들고 Service Editor를 닫습니다.
 
->   [./media/image26.jpeg](./media/image26.jpeg)
+    ![](/media/image26.jpeg)
 
->   [./media/image27.jpeg](./media/image27.jpeg)
+    ![](/media/image27.jpeg)
 
->   [./media/image28.jpeg](./media/image28.jpeg)
+    ![](/media/image28.jpeg)
 
 Scenario 1 - Deploy the New Service with Oracle Container Cloud Service
 -----------------------------------------------------------------------
@@ -361,7 +360,7 @@ Scenario 2 - Fork application in GitHub
 
 3.  저장소 페이지의 상단에 있는 메뉴에서 **Fork** 버튼을 클릭하십시오.
 
->   [./media/image43.jpeg](./media/image43.jpeg)
+    ![](/media/image43.jpeg)
 
 Scenario 2 - Create a Docker Hub Automated Build
 ------------------------------------------------
@@ -370,7 +369,7 @@ Scenario 2 - Create a Docker Hub Automated Build
 
 2.  Docker Hub Create 메뉴에서 **Create Automated Build**를 선택 하십시오.
 
->   [./media/image3.jpeg](./media/image3.jpeg)
+    ![](/media/image3.jpeg)
 
 1.  **Create Auto-build Github** 클릭
 
@@ -436,7 +435,7 @@ Scenario 2 - Create a New Service with Oracle Container Cloud Service
 
     2.  **Save**를 클릭하여 새 서비스를 만들고 Service Editor를 닫습니다.
 
->   [./media/image26.jpeg](./media/image26.jpeg)
+    ![](/media/image26.jpeg)
 
 >   [./media/image53.jpeg](./media/image53.jpeg)
 
@@ -693,7 +692,7 @@ Scenario 1 - Fork application in GitHub
 
 3.  저장소 페이지의 상단에 있는 메뉴에서 Fork 버튼을 클릭하십시오.
 
->   [./media/image2.jpeg](./media/image2.jpeg)
+    ![](/media/image2.jpeg)
 
 >   이제 docker-images 저장소의 복사본을 만들었습니다.
 
@@ -705,19 +704,19 @@ Scenario 1 - Create a Docker Hub Automated Build
 2.  Docker Hub **Create** 메뉴에서 “**Create Automated Build”** 를 선택
     하십시오.
 
->   [./media/image3.jpeg](./media/image3.jpeg)
+    ![](/media/image3.jpeg)
 
 1.  **Link Accounts** 를 클릭 하십시오
 
->   [./media/image4.jpeg](./media/image4.jpeg)
+    ![](/media/image4.jpeg)
 
 1.  **Link GitHub**를 클릭 하십시오.
 
->   [./media/image5.jpeg](./media/image5.jpeg)
+    ![](/media/image5.jpeg)
 
 1.  Public and Private 을 선택하고**Select**를 클릭 하십시오.
 
->   [./media/image6.jpeg](./media/image6.jpeg)
+    ![](/media/image6.jpeg)
 
 1.  **Authorize application** 클릭하십시오
 
@@ -730,16 +729,16 @@ Scenario 1 - Create a Docker Hub Automated Build
 3.  Docker Hub **Create** 메뉴에서 **Create Automated Build**를 선택
     하십시오**.**
 
->   [./media/image9.jpeg](./media/image9.jpeg)
+    ![](/media/image9.jpeg)
 
 1.  당신의GitHub 계정에 명시된 **Create Auto-build GitHub**을 클릭하면 automated
     build를 생성할 저장소가 포함되게 됩니다.
 
->   [./media/image10.jpeg](./media/image10.jpeg)
+    ![](/media/image10.jpeg)
 
 1.  자신의GitHub 계정으로 fork된 docker-images 저장소를 선택합니다.
 
->   [./media/image11.jpeg](./media/image11.jpeg)
+    ![](/media/image11.jpeg)
 
 1.  Automated build 생성 페이지에서 다음을 수행하십시오.
 
@@ -763,7 +762,7 @@ Scenario 1 - Create a Docker Hub Automated Build
 >   **Dockerfile Location** 필드의 값을
 >   */ContainerCloud/images/docker-hello-world/* 로 변경 하십시오
 
->   [./media/image14.jpeg](./media/image14.jpeg)
+    ![](/media/image14.jpeg)
 
 >   **Build Settings** 탭에서 정의한 빌드 규칙은 이미지 작성 방법 및 시기를
 >   지정합니다. 디폴트로 이미지들은 다음과 같습니다.
@@ -820,17 +819,17 @@ Scenario 1 - Create a New Service with Oracle Container Cloud Service
 1.  Oracle Container Cloud Service를 생성하십시오. (Lab 100을 수행하신 분은 이
     과정 생략)
 
->   [./media/image21.jpeg](./media/image21.jpeg)
+    ![](/media/image21.jpeg)
 
->   [./media/image22.jpeg](./media/image22.jpeg)
+    ![](/media/image22.jpeg)
 
->   [./media/image23.jpeg](./media/image23.jpeg)
+    ![](/media/image23.jpeg)
 
 1.  Oracle Container Cloud Service Container 콘솔에 로그인 하십시오.
 
->   [./media/image24.jpeg](./media/image24.jpeg)
+    ![](/media/image24.jpeg)
 
->   [./media/image25.jpeg](./media/image25.jpeg)
+    ![](/media/image25.jpeg)
 
 1.  Services page에서, **New Service**를 클릭하여 Service Editor를 표시하고
     다음을 수행합니다.
@@ -847,11 +846,11 @@ Scenario 1 - Create a New Service with Oracle Container Cloud Service
 
     2.  **Save**를 클릭하여 새 서비스를 만들고 Service Editor를 닫습니다.
 
->   [./media/image26.jpeg](./media/image26.jpeg)
+    ![](/media/image26.jpeg)
 
->   [./media/image27.jpeg](./media/image27.jpeg)
+    ![](/media/image27.jpeg)
 
->   [./media/image28.jpeg](./media/image28.jpeg)
+    ![](/media/image28.jpeg)
 
 Scenario 1 - Deploy the New Service with Oracle Container Cloud Service
 -----------------------------------------------------------------------
@@ -966,7 +965,7 @@ Scenario 2 - Fork application in GitHub
 
 3.  저장소 페이지의 상단에 있는 메뉴에서 **Fork** 버튼을 클릭하십시오.
 
->   [./media/image43.jpeg](./media/image43.jpeg)
+    ![](/media/image43.jpeg)
 
 Scenario 2 - Create a Docker Hub Automated Build
 ------------------------------------------------
@@ -975,7 +974,7 @@ Scenario 2 - Create a Docker Hub Automated Build
 
 2.  Docker Hub Create 메뉴에서 **Create Automated Build**를 선택 하십시오.
 
->   [./media/image3.jpeg](./media/image3.jpeg)
+    ![](/media/image3.jpeg)
 
 1.  **Create Auto-build Github** 클릭
 
@@ -1041,7 +1040,7 @@ Scenario 2 - Create a New Service with Oracle Container Cloud Service
 
     2.  **Save**를 클릭하여 새 서비스를 만들고 Service Editor를 닫습니다.
 
->   [./media/image26.jpeg](./media/image26.jpeg)
+    ![](/media/image26.jpeg)
 
 >   [./media/image53.jpeg](./media/image53.jpeg)
 
@@ -1141,4 +1140,4 @@ Scenario 2 - Verify the second Deployment
     ![](media/a529e75959b8253e18e8d1d92661c9bf.jpg)
 
     수정 사항이 적용됩니다!
->>>>>>> 8051221c649c30a7af87afc402a49166bc5b12d6
+
