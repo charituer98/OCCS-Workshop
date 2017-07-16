@@ -386,7 +386,7 @@ Scenario 2 - Create a Docker Hub Automated Build
 
     b.  **Create** 클릭
 
-        ![](media/16959c0471974f36490d056b3382a2d1.jpg)
+    ![](/media/16959c0471974f36490d056b3382a2d1.jpg)
 
 6.  **Build Settings** 탭으로 이동하십시오.
 
@@ -536,4 +536,3 @@ Scenario 2 - Verify the second Deployment
     ![](media/a529e75959b8253e18e8d1d92661c9bf.jpg)
 
     수정 사항이 적용됩니다!
-=======
