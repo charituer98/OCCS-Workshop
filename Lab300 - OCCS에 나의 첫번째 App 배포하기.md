@@ -88,7 +88,7 @@ Scenario 1 - Fork application in GitHub
 
 3.  저장소 페이지의 상단에 있는 메뉴에서 Fork 버튼을 클릭하십시오.
 
-        ![](media/image2.jpeg)
+    ![](/media/image2.jpeg)
 
 >   이제 docker-images 저장소의 복사본을 만들었습니다.
 
@@ -100,19 +100,19 @@ Scenario 1 - Create a Docker Hub Automated Build
 2.  Docker Hub **Create** 메뉴에서 “**Create Automated Build”** 를 선택
     하십시오.
 
-        ![](media/image3.jpeg)
+    ![](/media/image3.jpeg)
 
 1.  **Link Accounts** 를 클릭 하십시오
 
-        ![](media/image4.jpeg)
+    ![](/media/image4.jpeg)
 
 1.  **Link GitHub**를 클릭 하십시오.
 
-        ![](media/image5.jpeg)
+    ![](/media/image5.jpeg)
 
 1.  Public and Private 을 선택하고**Select**를 클릭 하십시오.
 
-        ![](media/image6.jpeg)
+    ![](/media/image6.jpeg)
 
 1.  **Authorize application** 클릭하십시오
 
