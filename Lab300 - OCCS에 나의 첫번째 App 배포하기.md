@@ -104,6 +104,7 @@ Scenario 1 - Create a Docker Hub Automated Build
 
 1.  **Link Accounts** 를 클릭 하십시오
 
+        ![](media/image4.jpeg)
 
 1.  **Link GitHub**를 클릭 하십시오.
 
