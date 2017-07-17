@@ -1,6 +1,4 @@
 Lab 500
-
-Oracle Public Cloud Workshop
 ============================
 
 Container Cloud Service Hands-on Guide
