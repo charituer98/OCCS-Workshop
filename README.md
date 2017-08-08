@@ -15,8 +15,8 @@
 
 # OCCS-Workshop Lab 자료
 
-* Lab 100 : [OCCS 인스턴스 프로비저닝] (Lab100%20-%20OCCS%20인스턴스%20프로비저닝.md)
-* Lab 200 : [OCCS 대시보드 이해하기] (Lab200%20-%20OCCS%20대시보드%20이해하기.md)
-* Lab 300 : [OCCS에 나의 첫번째 App 배포하기] (Lab300%20-%20OCCS에%20나의%20첫번째%20App%20배포하기.md)
-* Lab 400 : [Stack을 사용한 WebLogic Cluster 배포] (Lab400%20-%20Stack을%20사용한%20WebLogic%20Cluster%20배포.md)
-* Lab 500 : [OCCS에서 오픈소스로 개발환경 구축하기] (Lab500：OCCS에서%20오픈소스로%20개발환경%20구축하기.md)
+* Lab 100 : [OCCS 인스턴스 프로비저닝](Lab100%20-%20OCCS%20인스턴스%20프로비저닝.md)
+* Lab 200 : [OCCS 대시보드 이해하기](Lab200%20-%20OCCS%20대시보드%20이해하기.md)
+* Lab 300 : [OCCS에 나의 첫번째 App 배포하기](Lab300%20-%20OCCS에%20나의%20첫번째%20App%20배포하기.md)
+* Lab 400 : [Stack을 사용한 WebLogic Cluster 배포](Lab400%20-%20Stack을%20사용한%20WebLogic%20Cluster%20배포.md)
+* Lab 500 : [OCCS에서 오픈소스로 개발환경 구축하기](Lab500：OCCS에서%20오픈소스로%20개발환경%20구축하기.md)
