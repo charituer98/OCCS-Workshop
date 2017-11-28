@@ -4,7 +4,7 @@ Lab 300
 Container Cloud Service Hands-on Guide
 ======================================
 
-*OCCS에 나의 첫번째 App 배포하기*
+*OCCS에 App 배포하기*
 =================================
 
 
