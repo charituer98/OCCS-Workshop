@@ -137,7 +137,7 @@ Scenario 1 - Create a Docker Hub Automated Build
     ![](media/c488cb7d09955ce230f2cb272c7d5f9f.jpg)
 
         Automated build 생성되면, Automated Build 화면의 **Repo Info**
-        탭이표시됩니다. 
+        탭이 표시됩니다. 
 
     ![](media/3934766e3dd81e9ed78cace183b6742f.jpg)
 
@@ -151,7 +151,7 @@ Scenario 1 - Create a Docker Hub Automated Build
 >   **Build Settings** 탭에서 정의한 빌드 규칙은 이미지 작성 방법 및 시기를
 >   지정합니다. 디폴트로 이미지들은 다음과 같습니다.
 
--   업데이트가 GitHub에 푸시 될 때마다 자동으로 생성됩니다.
+-   변경내용이 GitHub에 푸시 될 때마다 자동으로 생성됩니다.
 
 -   마스터 GitHub 브랜치를 사용하여 빌드
 
@@ -164,7 +164,7 @@ Scenario 1 - Trigger the Build Manually
 
 docker-hello-world 앱의 변경 사항이 GitHub의 docker-images 저장소로 푸시 될
 때마다 새로운 Docker 이미지가 빌드되도록 Docker 허브에 자동화 된 빌드를
-설정했습니다. 또는 Docker Hub에서 수동으로 빌드를 트리거 할 수도 있습니다.
+설정했습니다.  또는 Docker Hub에서 수동으로 빌드를 트리거 할 수도 있습니다.
 
 1.  **Build Settings** 탭에서 마스터 브랜치 옆의 **Trigge**를 클릭하여 기본 빌드
     설정으로 이미지를 빌드 하십시오.
@@ -177,7 +177,7 @@ docker-hello-world 앱의 변경 사항이 GitHub의 docker-images 저장소로 
     인해 이미지는 master GitHub 브랜치를 사용하여 빌드되며 Docker Hub에 최신
     태그가 제공됩니다.
 
-    이미지가 성공적으로 빌드되면 Build Details 페이지가latest라는 태그로
+    이미지가 성공적으로 빌드되면 Build Details 페이지가 latest라는 태그로
     나타납니다.
 
     ![](media/e9c7012ea5b36eac342d692e0d5e1a78.jpg)
