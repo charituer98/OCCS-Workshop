@@ -130,13 +130,13 @@ Scenario 1 - Create a Docker Hub Automated Build
 11.  Automated build 생성 페이지에서 다음을 수행하십시오.
 
     a.  다음 값을 입력하십시오.
-        i.  ** Name:** docker-hello-world
-        ii.  ** Short Description:** Simple Hello World Example
-    b.  ** Create** 클릭
+        i.  Name: docker-hello-world
+        ii.  Short Description: Simple Hello World Example
+    b.  Create 클릭
 
     ![](media/c488cb7d09955ce230f2cb272c7d5f9f.jpg)
 
-        Automated build 생성되면, Automated Build 화면의 **Repo Info**
+        Automated build 생성되면, Automated Build 화면의 Repo Info
         탭이 표시됩니다. 
 
     ![](media/3934766e3dd81e9ed78cace183b6742f.jpg)
@@ -209,11 +209,11 @@ Scenario 1 - Oracle Container Cloud Service Console 에 접속
 
     a.  다음 값을 입력 하십시오.
 
-        i.  **Service Name:** Hello World Nginx Demo
+        i.  Service Name: Hello World Nginx Demo
 
-        ii.  **Image:** YourAccount/docker-hello-world (Docker Hub 계정의 이미지)
+        ii.  Image: YourAccount/docker-hello-world (Docker Hub 계정의 이미지)
 
-        iii.  **Ports:** TCP 프로토콜을 사용하여 호스트 포트 8080에서 컨테이너
+        iii.  Ports: TCP 프로토콜을 사용하여 호스트 포트 8080에서 컨테이너
             포트 80으로 매핑을 설정합니다 (나중에 포트 8080을 사용하여 배포 된
             응용 프로그램이 실행 중인지 확인합니다)
 
@@ -287,7 +287,7 @@ Scenario 1 - Modify the Application in GitHub
 
     ![](media/a7d01c612b547a13ec341e0f3bae8d91.jpg)
 
-2.  아래와 같이index.html을 수정하십시오.
+2.  아래와 같이 index.html을 수정하십시오.
 
     ![](media/e25f96bcbbe936df106b2f76cf06ae37.jpg)
 
@@ -403,11 +403,11 @@ Scenario 2 - Create a New Service with Oracle Container Cloud Service
 
     a.  다음 값을 채우십시오.
 
-        i.  **Service Name:** jetExample
+        i.  Service Name: jetExample
 
-        ii.  **Image:** YourAccount/jet-docker (Docker Hub 계정의 이미지)
+        ii. Image: YourAccount/jet-docker (Docker Hub 계정의 이미지)
 
-        iii.  **Ports:** TCP 프로토콜을 사용하여 호스트 포트 9999에서 컨테이너
+        iii. Ports: TCP 프로토콜을 사용하여 호스트 포트 9999에서 컨테이너
             포트 80으로의 매핑을 설정합니다 (나중에 배포 된 응용 프로그램이 실행
             중인지 확인하기 위해 포트 9999를 사용합니다)
 
