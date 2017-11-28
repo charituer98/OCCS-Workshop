@@ -16,7 +16,7 @@ Introduction
 
 Background:
 
--   GitHub의 프로젝트 소스코드 호스트
+-   GitHub의 프로젝트 소스 코드
 
 -   GitHub에서 소스 파일이 업데이트 될 때마다 새 Docker 이미지를 자동으로
     빌드되도록 Docker Hub 설정
@@ -27,11 +27,9 @@ Background:
 다음과 같은 두 가지 시나리오가 있습니다.
 
 -   시나리오 1
-
     Nginx http 서버에서 실행되는 간단한 index.html
 
 -   시나리오 2
-
     Nginx http 서버에서 실행되는 JET 프론트 엔드 프로젝트.
 
 ### Objectives
@@ -61,13 +59,6 @@ Background:
 ### Required Artifacts 
 
 Oracle Container Cloud Service를 사용하기 전에 다음을 수행하십시오.
-
-귀사 또는 귀사의 다른 누군가가 Oracle Container Cloud Service 등록을 주문하고
-활성화해야합니다.
-
-자세한 내용은Oracle 도움말 센터에서 [Oracle Container Cloud
-Service](http://docs.oracle.com/cloud/latest/container-cloud/CONTU/toc.htm)
-사용을 참조 하십시오.
 
 GitHub 계정: 아직 계정이 없다면, go to <https://github.com/> 으로 이동하여
 가입하십시오.
@@ -209,25 +200,14 @@ docker-hello-world 앱의 변경 사항이 GitHub의 docker-images 저장소로 
 
     ![](media/f7c8caf58968a3c86b8fa3586acc276b.jpg)
 
-Scenario 1 - Create a New Service with Oracle Container Cloud Service
+Scenario 1 - Oracle Container Cloud Service Console 에 접속
 ---------------------------------------------------------------------
 
-1.  Oracle Container Cloud Service를 생성하십시오. (Lab 100을 수행하신 분은 이
-    과정 생략)
-
-    ![](/media/image21.jpeg)
-
-    ![](/media/image22.jpeg)
-
-    ![](/media/image23.jpeg)
-
-2.  Oracle Container Cloud Service Container 콘솔에 로그인 하십시오.
-
-    ![](/media/image24.jpeg)
+1.  강사로 부터 부여 받은 IP를 이용하여 Console에 접속합니다.
 
     ![](/media/image25.jpeg)
 
-3.  Services page에서, **New Service**를 클릭하여 Service Editor를 표시하고
+2.  Services page에서, **New Service**를 클릭하여 Service Editor를 표시하고
     다음을 수행합니다.
 
     a.  다음 값을 입력 하십시오.
