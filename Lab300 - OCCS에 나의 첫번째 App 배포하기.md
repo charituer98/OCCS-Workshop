@@ -32,7 +32,7 @@ Background:
 
 -   시나리오 2
 
-    Nginx http 서버에서 실행되는 Jet 프론트 엔드 프로젝트.
+    Nginx http 서버에서 실행되는 JET 프론트 엔드 프로젝트.
 
 ### Objectives
 
