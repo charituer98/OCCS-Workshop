@@ -101,7 +101,7 @@ Scenario 1 - Create a Docker Hub Automated Build
 
     ![](/media/image5.jpeg)
 
-5.  Public and Private 을 선택하고**Select**를 클릭 하십시오.
+5.  Public and Private 을 선택하고 **Select**를 클릭 하십시오.
 
     ![](/media/image6.jpeg)
 
@@ -114,28 +114,25 @@ Scenario 1 - Create a Docker Hub Automated Build
     ![](/media/77fb92a5bce13644184e13056f8f035b.jpg)
 
 8.  Docker Hub **Create** 메뉴에서 **Create Automated Build**를 선택
-    하십시오**.**
+    하십시오.
 
     ![](/media/image9.jpeg)
 
-9.  당신의GitHub 계정에 명시된 **Create Auto-build GitHub**을 클릭하면 automated
+9.  여러분의 GitHub 계정에 명시된 **Create Auto-build GitHub**을 클릭하면 automated
     build를 생성할 저장소가 포함되게 됩니다.
 
     ![](/media/image10.jpeg)
 
-10.  자신의GitHub 계정으로 fork된 docker-images 저장소를 선택합니다.
+10.  자신의 GitHub 계정으로 fork된 docker-images 저장소를 선택합니다.
 
     ![](/media/image11.jpeg)
 
 11.  Automated build 생성 페이지에서 다음을 수행하십시오.
 
     a.  다음 값을 입력하십시오.
-
-        i.  **Name:** docker-hello-world
-
-        ii.  **Short Description:** Simple Hello World Example
-
-    b.  **Create** 클릭
+        i.  ** Name:** docker-hello-world
+        ii.  ** Short Description:** Simple Hello World Example
+    b.  ** Create** 클릭
 
     ![](media/c488cb7d09955ce230f2cb272c7d5f9f.jpg)
 
